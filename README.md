@@ -4,8 +4,6 @@
 
 <h1>Albion Market</h1>
 <h4>Albion Online Market Bot used to check prices of items in cities. It is currently in a beta version and under development, and many features will be added in the future</h4>
-
-
 </div>
 
 
@@ -15,7 +13,6 @@
 |--|--|
 | /price | Will list prices for that item in all cities |
 
-> More features coming soon
 
 
 ### :camera: Here's an example output:
