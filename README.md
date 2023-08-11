@@ -16,4 +16,4 @@
 
 
 ### :camera: Here's an example output:
-<div align="center"> <a href=""><img src="https://i.imgur.com/k91nptA.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/tNuzLBu.png" alt='image' width='800'/></a> </div>
